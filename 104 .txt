@@ -1,1 +1,1 @@
-{"title":"کاربر گرامی ","message":"جهت استفاده از این Vpn و دسترسی به فیلتر شکن های مود در کانال تلگرام ما عضو شوید  ♥️","dismissable":false,"dismissTxt":"رد","okTxt":" عضویت در تلگرام 🟢","okUrl":"tg://resolve?domain=Vpn_irany","status":"ok"}
+{"title":"کاربر گرامی ","message":"جهت استفاده از این برنامه و بهره‌مندی از فیلتر شکن های متصل بیشتر در کانال مرجع ما عضو شوید ♥️","dismissable":false,"dismissTxt":"رد","okTxt":" عضویت در تلگرام 🟢","okUrl":"tg://resolve?domain=Vpn_irany","status":"ok"}
